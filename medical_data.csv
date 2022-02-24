@@ -1,0 +1,97 @@
+﻿race,gender,age,medication,job_title,city,salary
+White,Female,68,Pradaxa,Lawyer,Buffalo,23465.87
+White,Male,69,Eliquis,Lawyer Assistant,Bronx,21305.72
+White,Male,70,Plavix,Electrical Engineer,Brooklyn,20131.43
+White,Male,70,Pradaxa,Biostatistician,Elmira,23263.6
+White,Female,70,Pradaxa,Director of Sales,New York City,20178.54
+Hispanic,Male,71,Eliquis,Dental Hygienist,Buffalo,16117.93
+White,Female,71,Plavix,Accountant,Rochester,21744.7
+Hispanic,Male,71,Pradaxa,Teacher,New York City,21869.02
+White,Female,71,Pradaxa,Account Coordinator,Syracuse,19215.72
+White,Female,72,Plavix,Operator,Brooklyn,17472.24
+Asian,Male,72,Pradaxa,Software Developer,Brooklyn,22336.01
+White,Female,73,Eliquis,Tax Accountant,Elmira,19157.96
+White,Female,73,Pradaxa,Carpenter,Rochester,18155.9
+White,Male,73,Eliquis,Electrician,New York City,22214.76
+White,Female,74,Eliquis,Scientist,Jamaica,21656.19
+Hispanic,Female,75,Plavix,Paralegal,Albany,15979.44
+Black,Male,75,Pradaxa,Lawyer,Flushing,24563.83
+White,Male,75,Plavix,Lawyer Desk Attendant,Albany,16370.47
+White,Female,76,Plavix,Registered Nurse,Syracuse,23302.18
+White,Male,77,Pradaxa,Project Manager,New York City,24667.12
+Hispanic,Male,78,Pradaxa,Nurse Practitioner,Brooklyn,20044.11
+Black,Female,78,Pradaxa,Data Analyst,Jamaica,20615.11
+White,Male,78,Pradaxa,Accountant,Buffalo,19259.87
+Black,Male,78,Plavix,Teacher,Albany,24701.69
+Hispanic,Male,78,Eliquis,Account Coordinator,Brooklyn,22282.32
+White,Male,79,Eliquis,Operator,Bronx,17188.9
+White,Male,79,Pradaxa,Research Associate,Rochester,24285.96
+White,Male,80,Eliquis,Desktop Support Technician,Rochester,16251.57
+Hispanic,Male,80,Eliquis,Biostatistician,New York City,24496.48
+Hispanic,Female,81,Plavix,Director of Sales,New York City,21110.36
+Black,Female,81,Plavix,Dental Hygienist,Rochester,23372.42
+Black,Male,81,Pradaxa,Accountant,New York City,19552.37
+Hispanic,Female,82,Eliquis,Teacher,Brooklyn,20953.56
+Hispanic,Male,62,Pradaxa,Marketing Assistant,Brooklyn,23668.73
+White,Male,63,Pradaxa,Registered Nurse,New York City,17481.24
+Asian,Male,63,Eliquis,Project Manager,New York City,15268.78
+White,Female,63,Eliquis,Nurse Practitioner,Schenectady,24708.88
+White,Female,64,Eliquis,Data Analyst,New York City,22897.96
+White,Male,64,Plavix,Telecommunications Equipment,Buffalo,21600.65
+Asian,Male,64,Plavix,Registered Nurse,Albany,20963.91
+White,Female,65,Pradaxa,Biostatistician,New York City,21541.42
+White,Male,65,Eliquis,Nurse Practitioner,Jamaica,17138.58
+White,Female,66,Plavix,Data Analyst,New York City,16548.79
+White,Male,66,Eliquis,Social Worker,Albany,15939.68
+White,Male,66,Plavix,Executive Assistant,Rochester,16656.59
+White,Male,67,Plavix,Social Worker,Albany,18230.18
+White,Female,67,Eliquis,Executive Assistant,Staten Island,21095.28
+White,Male,68,Eliquis,Major Pharmaceuticals,Albany,21137.93
+White,Female,68,Pradaxa,Major Chemicals,New York City,23825.45
+Hispanic,Male,69,Pradaxa,Registered Nurse,Albany,22783.3
+Hispanic,Female,70,Plavix,Registered Nurse,New York City,21891.05
+White,Male,70,Plavix,Project Manager,New York City,20918.67
+Hispanic,Female,72,Pradaxa,Nurse Practitioner,Jamaica,21598.37
+Hispanic,Female,72,Eliquis,Data Analyst,Albany,22878.34
+Black,Male,72,Plavix,Editor,Rochester,21793.77
+Asian,Female,73,Eliquis,Accountant,Jamaica,17139.23
+Black,Male,73,Eliquis,Accountant,New York City,20905.84
+White,Female,73,Plavix,Registered Nurse,New York City,22293.65
+White,Female,73,Eliquis,Project Manager,New York City,20953.04
+White,Female,74,Eliquis,Nurse Practitioner,Schenectady,23826.25
+White,Male,74,Pradaxa,Data Analyst,New York City,21880.32
+Black,Female,76,Eliquis,Business Services,Syracuse,15733
+White,Female,77,Pradaxa,Insurance,New York City,24859.13
+White,Female,77,Pradaxa,Banker,New York City,15381.95
+White,Female,78,Pradaxa,Registered Nurse,Albany,20489.16
+White,Male,80,Plavix,Project Manager,Albany,16164.81
+Hispanic,Female,80,Plavix,Nurse Practitioner,New York City,16692.43
+Hispanic,Female,60,Pradaxa,Data Analyst,New York City,18257.45
+White,Male,61,Eliquis,Waiter,Albany,17323.09
+Asian,Male,66,Pradaxa,Waiter,New York City,19863.74
+White,Female,78,Plavix,Sales Representative,Schenectady,22629.52
+Black,Male,87,Eliquis,Recruiting Manager,Brooklyn,22139.51
+White,Male,65,Plavix,Internal Auditor,New York City,21228.54
+White,Female,66,Plavix,Editor,Buffalo,17236.02
+White,Male,60,Plavix,Car Sales,Brooklyn,24254.46
+White,Male,60,Plavix,Software Developer,New York City,18347.31
+White,Female,61,Plavix,Software Developer,Mount Vernon,22201.01
+Hispanic,Female,61,Plavix,Nanny,Rochester,21569.06
+White,Female,61,Eliquis,Web Designer,Albany,22278.19
+Asian,Male,62,Eliquis,Nanny,Bronx,20223.01
+White,Male,63,Pradaxa,Web Designer,Brooklyn,17020.4
+White,Female,63,Eliquis,Recruiting Manager,New York City,17485.74
+Hispanic,Female,65,Pradaxa,Internal Auditor,Buffalo,15408.57
+Hispanic,Female,66,Eliquis,Editor,White Plains,19602.32
+Black,Female,66,Eliquis,Dentist,New York City,16160
+White,Male,66,Plavix,Major Pharmaceuticals,New York City,15990.05
+White,Male,67,Eliquis,Sales Representative,New York City,21406.8
+White,Female,67,Pradaxa,Recruiting Manager,Albany,23730.86
+Asian,Female,68,Eliquis,Internal Auditor,Albany,23728.22
+Hispanic,Male,68,Pradaxa,Editor,New York City,23606.38
+White,Male,68,Eliquis,Driver,New York City,16158.66
+Hispanic,Male,68,Plavix,Editor,Albany,23788
+White,Male,69,Plavix,Social Worker,New York City,23124.84
+White,Female,69,Plavix,Executive Assistant,New York City,15280.59
+White,Female,70,Pradaxa,Social Worker,Rochester,17622.05
+White,Male,70,Plavix,Executive Assistant,Rochester,17941.12
